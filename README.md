@@ -16,6 +16,6 @@ SOURCE_CODE_Quanlithuvien.cpp
 ## ⚙️ Cách chạy chương trình
 
 ### Dùng IDE (Code::Blocks, DevC++, Visual Studio,...)
-Mở hoặc tạo project mới
-Thêm file main.cpp và các file cần thiết khác vào project
-Build & Run
+- Mở hoặc tạo project mới
+- Thêm file main.cpp và các file cần thiết khác vào project
+- Build & Run
