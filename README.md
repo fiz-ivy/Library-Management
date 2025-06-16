@@ -1,30 +1,21 @@
-# Library-Management
-# 🩸 Hệ thống Quản lý Hiến máu Tình nguyện
+# 📚 Hệ thống Quản lý Thư viện (C++)
 
-Đây là đồ án môn học *Phân tích và Thiết kế Hệ thống*.  
-Dự án tập trung vào việc phân tích và thiết kế một hệ thống nhằm hỗ trợ quản lý hoạt động hiến máu tình nguyện, giúp đơn giản hóa quy trình đăng ký, lưu trữ thông tin người hiến, và hỗ trợ quản trị viên trong việc quản lý dữ liệu.
+Đây là đồ án môn học được xây dựng bằng ngôn ngữ lập trình **C++**, mô phỏng một hệ thống quản lý thư viện cơ bản. Hệ thống hỗ trợ các chức năng quản lý sách, người mượn, và quá trình mượn/trả sách.
 
-## 📁 Tài liệu bao gồm
+## 🧩 Chức năng chính
 
-- `HeThongQUanLyHienMauTinhNguyenj.docx` — Báo cáo phân tích và thiết kế hệ thống chi tiết.
-- `UI.pptx` — Slide thuyết trình với sơ đồ hệ thống và tổng quan thiết kế.
+- Thêm, sửa, xóa sách
+- Tìm kiếm sách theo tên hoặc mã sách
+- Quản lý thông tin người mượn
+- Quản lý mượn và trả sách
+- Lưu trữ dữ liệu tạm thời bằng file văn bản (`.txt`)
 
-## 🧩 Nội dung chính
+## 📁 Nội dung
+SOURCE_CODE_Quanlithuvien.cpp
 
-- Phân tích tác nhân: Người hiến máu, Quản trị viên, Hệ thống
-- Yêu cầu chức năng và phi chức năng
-- Sơ đồ Use Case
-- Sơ đồ ngữ cảnh
-- Sơ đồ ERD
-- Sơ đồ hoạt động
-- Sơ đồ tuần tự
-- Sơ đồ lớp
+## ⚙️ Cách chạy chương trình
 
-## 🚀 Thông tin dự án
-
-- **Môn học:** Phân tích và Thiết kế Hệ thống  
-- **Tên dự án:** Hệ thống Quản lý Hiến máu Tình nguyện  
-- **Số lượng thành viên:** 5 
-- **Công cụ sử dụng:** Microsoft Word, PowerPoint (có thể dùng thêm draw.io)  
-- **Thời gian thực hiện:** Tháng 3 năm 2025
-
+### Dùng IDE (Code::Blocks, DevC++, Visual Studio,...)
+Mở hoặc tạo project mới
+Thêm file main.cpp và các file cần thiết khác vào project
+Build & Run
