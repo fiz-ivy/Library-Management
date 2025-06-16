@@ -6,7 +6,7 @@ Dự án tập trung vào việc phân tích và thiết kế một hệ thống
 
 ## 📁 Tài liệu bao gồm
 
-- `HeThongQUanLyHienMau.docx` — Báo cáo phân tích và thiết kế hệ thống chi tiết.
+- `HeThongQUanLyHienMauTinhNguyenj.docx` — Báo cáo phân tích và thiết kế hệ thống chi tiết.
 - `UI.pptx` — Slide thuyết trình với sơ đồ hệ thống và tổng quan thiết kế.
 
 ## 🧩 Nội dung chính
